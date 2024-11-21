@@ -17,7 +17,7 @@ public class Q1 {
 // 4. 'Üye Ol / Giriş Yap' butonuna tıkla.
 // 5. 'Hesabınıza giriş yapın'ın görünür olduğunu doğrula
 // 6. Yanlış e-posta adresi ve şifre gir
-// 7. 'Giriş' butonuna tıkla
+// 7. 'Giriş' butonuna tıkla.
 // 8. 'E-posta adresiniz veya şifreniz yanlış!' hatasının görünür olduğunu doğrula
 
 
