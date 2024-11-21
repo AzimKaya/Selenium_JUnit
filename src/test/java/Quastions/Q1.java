@@ -14,7 +14,7 @@ public class Q1 {
     // 1. Tarayıcıyı başlat
 // 2. 'http://automationexercise.com' adresine git
 // 3. Ana sayfanın başarıyla görünür olduğunu doğrula
-// 4. 'Üye Ol / Giriş Yap' butonuna tıkla
+// 4. 'Üye Ol / Giriş Yap' butonuna tıkla.
 // 5. 'Hesabınıza giriş yapın'ın görünür olduğunu doğrula
 // 6. Yanlış e-posta adresi ve şifre gir
 // 7. 'Giriş' butonuna tıkla
