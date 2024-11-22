@@ -13,7 +13,7 @@ public class C05_TestNotasyonu {
     public void testOtomasyonuTest(){
 
         // bir class'in icinde birden fazla bagimsiz calisabilen test olur mu ?
-        // JUnit ile calisirken class'da birden fazla test oldugunda
+        // JUnit ile calisirken class'da birden fazla test oldugunda.
         // toplu calistirdigimiz zaman hangi sira ile calisacagini BILEMEYIZ ve KONTROL EDEMEYIZ
 
 
