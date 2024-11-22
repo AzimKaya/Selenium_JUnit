@@ -12,7 +12,7 @@ import java.time.Duration;
 
 public class P3 {
      /*
-BeforeClass ile driver'i oluşturun ve class icinde static yapin
+BeforeClass ile driver'i oluşturun ve class icinde static yapin.
 Maximize edin ve 10 sn bekletin
 http://www.babayigit.net/testdocs adresine gidin
 1-arama kutusuna "12 Angry Men" yaz ip, cikan sonuc şayisini yazdinin
