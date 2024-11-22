@@ -13,7 +13,7 @@ public class P02 {
     public static void tearDwn(){
         System.out.println("Test işlemleri tamamlandi");
 
-//Dikkat
+//Dikkat.
     }
 
     @Before
